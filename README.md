@@ -15,7 +15,7 @@ A Chip-8 Emulator using Python
   
   ![App Screenshot](resources/pongSC.png)
   
-  ![App Screenshot](resources/brickSC.png)
+  <!-- ![App Screenshot](resources/brickSC.png) -->
 
 </div>
 
