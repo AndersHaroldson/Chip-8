@@ -11,6 +11,11 @@ A Chip-8 Emulator using Python
 
 </div>
 
+## Introduction
+*Insert intro here
+
+
+
 <div align="center">
   
   ![App Screenshot](resources/pongSC.png)
