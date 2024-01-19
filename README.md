@@ -50,4 +50,6 @@ cd Chip-8
 - [Cowgod's Chip-8 Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#0.0)
 - [Wikipedia Opcodes](https://en.wikipedia.org/wiki/CHIP-8#Opcode_table)
 - [Timendus' CHIP-8 Test Suite](https://github.com/Timendus/chip8-test-suite#chip-8-splash-screen)
+- [Emulation Basics: Write your own Chip 8 Emulator/Interpreter](https://omokute.blogspot.com/2012/06/emulation-basics-write-your-own-chip-8.html)
+- [freeCodeCamp: How to Create Your Very Own Chip-8 Emulator](https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/)
 
