@@ -37,9 +37,12 @@ git clone https://github.com/AndersHaroldson/Chip-8.git
 ```bash
 cd Chip-8
 ```
-3. Put the path to the ROM file you want (it's under the main() function)
+3. Put the path to the buzz.wav file as well as the ROM file you want 
 ```python
- self.loadROM("Insert ROM path here")
+pygame.mixer.music.load("Insert buzz file path here")
+```
+```python
+self.loadROM("Insert ROM path here")
 ```
 4. Run the file!
 ```bash
