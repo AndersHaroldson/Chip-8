@@ -11,9 +11,10 @@ A Chip-8 Emulator using Python
 
 </div>
 
-## Introduction
-*Insert intro here
-
+## About the Project
+This is my very rough attempt at emulating the Chip-8 system from the 1970s. The Chip-8 system can run various retro games including Pong, Tetris, Pac-Man, Brick Breaker, and more. 
+This project came to fruition with the goal of understanding computers at a more fundamental level, and I think that I reached that goal. 
+Although Chip-8 is considered the most basic emulation project, I learned a lot about computer architecture along the way. 
 
 
 <div align="center">
@@ -24,4 +25,29 @@ A Chip-8 Emulator using Python
 
 </div>
 
-## Installation
+## Getting Started
+### Prerequisites
+- Pygame
+### Installation
+1. Clone this repository
+```bash
+git clone https://github.com/AndersHaroldson/Chip-8.git
+```
+2. Change directory into the cloned repo
+```bash
+cd Chip-8
+```
+3. Put the path to the ROM file you want (it's under the main() function)
+```python
+ self.loadROM("Insert ROM path here")
+```
+4. Run the file!
+```bash
+ python Chip-8.py
+```
+
+## Acknowledgements
+- [Cowgod's Chip-8 Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#0.0)
+- [Wikipedia Opcodes](https://en.wikipedia.org/wiki/CHIP-8#Opcode_table)
+- [Timendus' CHIP-8 Test Suite](https://github.com/Timendus/chip8-test-suite#chip-8-splash-screen)
+
